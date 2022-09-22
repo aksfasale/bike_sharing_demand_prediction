@@ -1,3 +1,4 @@
+
 # Bike Sharing Demand Prediction
 In this study, we aim to create a predictive model, which could be used to predict how many bike rentals will occur based on weather conditions throughout the year.  As a result, predictions can be made more quickly and efficiently.
 
@@ -8,10 +9,10 @@ Libraries used : Pandas, Numpy, Matplotlib, Seaborn, Sklearn
 NoteBook : Google Colab
 
 Dataset Source : Provided by Almabetter themself.
-
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Objective
 We are provided with a Seoul Bike Dataset. The main objective is to build a predictive model on the given dataset, which could help to train a model to predict the number of bike rentals of the year given the weather conditions.
-
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Dataset 
 This dataset contains bike usage patterns with the weather data to forecast bike rental demand. The data set consists of hourly rental data spanning two years.
 It contains the following features: 
