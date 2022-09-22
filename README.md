@@ -3,7 +3,7 @@ In this study, we aim to create a predictive model, which could be used to predi
 
 Programming Language : Python
 
-Libraries used : Pandas, Numpy, Matplotlib, Seaborn
+Libraries used : Pandas, Numpy, Matplotlib, Seaborn, Sklearn
 
 NoteBook : Google Colab
 
